@@ -1,2 +1,2 @@
-- [![ExusiaiMoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=exusiaimoe)](https://github.com/anuraghazra/github-readme-stats)
+[![ExusiaiMoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=exusiaimoe)](https://github.com/anuraghazra/github-readme-stats)
 
